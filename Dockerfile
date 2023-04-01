@@ -1,7 +1,7 @@
 FROM openjdk:17-jdk-buster
 
-ARG FAN_VERSION=fantom-1.0.77
-ARG FAN_TAG=v1.0.77
+ARG FAN_VERSION=fantom-1.0.78
+ARG FAN_TAG=v1.0.78
 ARG FAN_WEBDIR=https://github.com/fantom-lang/fantom/releases/download
 
 WORKDIR /opt/
